@@ -1,0 +1,112 @@
+form.migrate {
+    margin-top: 30px;
+}
+
+.select-controls {
+    font-size: 0.9em;
+    margin: 0 0 10px 0;
+}
+
+.select-controls a {
+    text-decoration: none;
+}
+
+.select-controls .sep {
+    margin: 0 8px;
+    color: #999;
+}
+
+.select-controls.bottom {
+    margin: 10px 0 0 0;
+}
+
+.migrate-sets {
+    border-top: 1px solid #ccc;
+    border-spacing: 0;
+    width: 100%;
+}
+
+.migrate-sets td, .migrate-sets th {
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 15px;
+}
+
+.migrate-sets th {
+    text-align: left;
+}
+
+.migrate-sets th .count {
+    color: #999;
+    font-size: 0.9em;
+}
+
+.migrate-sets .check {
+    width: 1%;
+    border-left: 1px solid #ccc;
+}
+
+.migrate-sets .spacer {
+    border-right: 0;
+}
+
+.migrate-sets .title {
+    width: 30%;
+}
+
+.migrate-sets .thumb {
+    width: 50px;
+    height: 50px;
+    padding: 0;
+}
+
+.migrate-sets .thumb img {
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+.migrate-sets .more {
+    font-size: 0.9em;
+    color: #999;
+}
+
+.migrate-sets .more a {
+    text-decoration: none;
+    color: #999;
+}
+
+.migrate-sets .more a:hover {
+    color: #666;
+}
+
+.migrate-sets .more-info {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.migrate-sets .progress {
+    width: 68%;
+    padding: 1px;
+}
+
+.migrate-sets .progress div {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.migrate-sets .progress span {
+    display: block;
+}
+
+.migrate-sets .progress .bar {
+    width: 0;
+}
+
+.migrate-sets .progress .txt {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px 15px;
+}
