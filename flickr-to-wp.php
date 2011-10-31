@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Flickr to WP
-Plugin URI: http://bradt.ca/projects/wordpress/wp-migrate-db/
+Plugin URI: http://wordpress.org/extend/plugins/flickr-to-wp/ 
 Description: Retake control of your photos by importing them into your Wordpress web site from your Flickr account.
 Author: Brad Touesnard
 Version: 0.1
